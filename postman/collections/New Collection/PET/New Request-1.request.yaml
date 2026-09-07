@@ -1,0 +1,5 @@
+$kind: http-request
+name: New Request
+url: https://petstore.swagger.io/v2/pet/2
+method: DELETE
+order: 2434139958980050

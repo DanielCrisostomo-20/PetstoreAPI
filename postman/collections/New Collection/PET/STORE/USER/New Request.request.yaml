@@ -1,0 +1,29 @@
+$kind: http-request
+url: https://petstore.swagger.io/v2/user/createWithList
+method: POST
+body:
+  type: json
+  content: "[\r
+
+    \    {\r
+
+    \        \"id\": 0,\r
+
+    \        \"username\": \"string\",\r
+
+    \        \"firstName\": \"string\",\r
+
+    \        \"lastName\": \"string\",\r
+
+    \        \"email\": \"string\",\r
+
+    \        \"password\": \"string\",\r
+
+    \        \"phone\": \"string\",\r
+
+    \        \"userStatus\": 0\r
+
+    \    }\r
+
+    ]"
+order: 1788567008435

@@ -1,0 +1,15 @@
+# Ignore arquivos pessoais e temporários
+*.exe
+*.pdf
+*.docx
+*.asta
+*.pkt
+
+# Pastas que não são do Postman
+C/
+DanielCrisostomo-20/
+KARL aula 1/
+Modelos Personalizados do Office/
+curso html/
+jogo/
+pingpong/

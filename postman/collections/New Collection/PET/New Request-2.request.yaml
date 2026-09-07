@@ -1,0 +1,9 @@
+$kind: http-request
+url: https://petstore.swagger.io/v2/pet/findByStatus?status=available
+method: GET
+queryParams:
+  - key: status
+    value: available
+    disabled: false
+    description: ""
+order: 4444084247186769

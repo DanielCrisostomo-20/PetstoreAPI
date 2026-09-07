@@ -1,0 +1,5 @@
+$kind: http-request
+name: New Request
+url: https://petstore.swagger.io/v2/store/order/4
+method: GET
+order: 3710636003181794
